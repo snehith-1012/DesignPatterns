@@ -1,3 +1,5 @@
+package SingeltonDesignPattern;
+
 public class Singelton implements Comparable<Singelton> {
 
    private static volatile Singelton obj = null;

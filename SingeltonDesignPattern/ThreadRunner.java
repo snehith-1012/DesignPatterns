@@ -1,7 +1,8 @@
-import java.util.Collections;
-import java.util.SequencedSet;
+package SingeltonDesignPattern;
+
+import SingeltonDesignPattern.Singelton;
+
 import java.util.Set;
-import java.util.TreeSet;
 
 public class ThreadRunner implements Runnable{
 

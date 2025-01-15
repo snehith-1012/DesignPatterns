@@ -1,3 +1,5 @@
+package SingeltonDesignPattern;
+
 import java.util.*;
 
 public class Main {
